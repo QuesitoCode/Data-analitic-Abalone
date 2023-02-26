@@ -58,7 +58,7 @@ r2 = r2_score(y_true= y_test, y_pred= predicciones)
 
 print(r2)
 
-#La diferencia entre los desempeños de cada una de las posibilidades 
+#La diferencia entre los desempeños de cada una de las posibilidades radica en la correlación de cada uno de estos datos, ya que realizamos el entrenamiento con unos datos similares al realizar la regresión nos genera que los datos más acertados frente a estos parametros son aquellos que generan una concordancia mas acertada.
 
 
 
